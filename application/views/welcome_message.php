@@ -20,10 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div id="container"> 
 
-	<?php
-		echo $mi_menu;
-		
-	?>
+	<?= $mi_menu //Este cambio fue hecho por Bryan Valerin desde MBP ?>
 
 </div>
 
