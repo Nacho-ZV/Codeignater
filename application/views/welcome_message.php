@@ -7,7 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<title>Algo nuevo</title>
 	<style > 
 	body{
-		font-family: Arial,"Helvetica";
+		<?php //font-family: Arial,"Helvetica"; ?>
 	}
 	
 	</style>

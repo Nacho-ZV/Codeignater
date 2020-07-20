@@ -18,7 +18,7 @@ public function construct_menu(){
     $return_menu = '<nav><ul>';
         foreach($this->el_menu as $options){     
             //una vez que creamos la variable, al momento de usarla 
-            //no hay que poner signo de dolar ($)
+            //no hay que poner signo de dolar ($) ejem: el_menu
 
         
         $return_menu .= '<li>' . $options . '</li>';
